@@ -1,0 +1,80 @@
+header {
+  height: 25vh;
+  background-color: #0d6efd;
+}
+header nav div ul li {
+  margin: 15px;
+}
+header nav div ul li a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+header div label {
+  margin-left: 80%;
+  color: white;
+}
+
+.LogoUnoss {
+  margin-top: 30px;
+}
+
+main {
+  height: 50vh;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(244, 107, 9, 0.7539390756)), to(rgba(244, 111, 9, 0.6418942577)));
+  background: linear-gradient(90deg, rgba(244, 107, 9, 0.7539390756) 0%, rgba(244, 111, 9, 0.6418942577) 100%);
+}
+main div section nav h2 {
+  color: white;
+}
+
+main div section nav ul {
+  margin: 20px;
+}
+main div section nav ul li {
+  color: white;
+}
+main div section nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.d-blockd {
+  width: 700px;
+  height: 468px;
+}
+
+.d-block {
+  height: 50vh;
+}
+
+footer {
+  height: 25vh;
+  background-color: #0d6efd;
+}
+footer div h1 {
+  color: white;
+}
+footer div h2 {
+  color: white;
+}
+
+.FiguraUno {
+  margin-top: 40px;
+  margin-left: 85%;
+  margin-right: 10px;
+}
+
+.FiguraTres {
+  margin-top: 40px;
+  margin-right: 10px;
+}
+
+.FiguraDos {
+  margin-top: 40px;
+  margin-right: 10px;
+}
+
+.FiguraCuatro {
+  margin-top: 40px;
+}

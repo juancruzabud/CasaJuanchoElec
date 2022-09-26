@@ -1,0 +1,41 @@
+main{ 
+    height: 50vh;
+    background: linear-gradient(90deg, rgba(244,107,9,0.7539390756302521) 0%, rgba(244,111,9,0.6418942577030813) 100%);
+    div{
+        section{
+            nav{
+                h2{
+                    color:white
+                }
+            }
+        }
+    }
+}
+
+main{
+    div{
+        section{
+            nav{
+                ul{
+                    margin: 20px;
+                    li{
+                        color: white;
+                        a{
+                            text-decoration: none;
+                            color: white;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+.d-blockd {
+    width: 700px ;
+    height: 468px ;
+}
+.d-block{
+    height: 50vh;}
